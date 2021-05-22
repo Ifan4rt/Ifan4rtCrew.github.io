@@ -15,7 +15,7 @@ footer.innerHTML = sender;
 footer.href = "https://www.facebook.com/Naufal.Cyber4rt/";
 
 document.querySelector(".tombol").addEventListener('click', function () {
-  Swal.fire("Hallo Sayangku", "Q ada pertanyaan nih buat kamu?", "question").then(function () {
+  Swal.fire("Hallo JEYEEK:)", "Q ada pertanyaan nih buat kamu?", "question").then(function () {
     Swal.fire("Jawab yg Jujur yaah!").then(function () {
       Swal.fire("Awas aja kalo Boong!!", "", "error").then(function () {
 
